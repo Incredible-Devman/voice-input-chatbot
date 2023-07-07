@@ -26,7 +26,7 @@ AI Based Chatbot
 
 ## Screenshot
 <div align="center">
-  <img src="./result.PNG">  
+  <img src="https://github.com/devman-AI/AI-based-Chatbot/blob/master/result.PNG">  
   <p>chatbot</p>
 </div>
 
